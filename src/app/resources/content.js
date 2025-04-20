@@ -107,8 +107,8 @@ const about = {
           {
             src: "/images/projects/project-01/cover-01.jpg",
             alt: "Once UI Project",
-            width: 16,
-            height: 12,
+            width: 18,
+            height: 16,
           },
         ],
       },
@@ -136,7 +136,7 @@ const about = {
           {
             src: "/images/projects/project-01/cover-02.jpg",
             alt: "Project image",
-            width: 16,
+            width: 20,
             height: 9,
           },
         ],
@@ -159,7 +159,7 @@ const about = {
 };
 
 const blog = {
-  label: "Blog",
+  label: "News",
   title: "Writing about design and tech...",
   description: `Read what ${person.name} has been up to recently`,
   // Create new blog posts by adding a new .mdx file to app/blog/posts
@@ -175,7 +175,7 @@ const work = {
 };
 
 const gallery = {
-  label: "Gallery",
+  label: "Midjourney Showcase",
   title: "My photo gallery",
   description: `A photo collection by ${person.name}`,
   images: [
