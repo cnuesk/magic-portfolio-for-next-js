@@ -51,7 +51,7 @@ const home = {
   label: "Home",
   title: `${person.name}'s Portfolio`,
   description: `Portfolio website showcasing my work as a ${person.role}`,
-  headline: <>AI enthusiast and Stock Market Trader</>,
+  headline: <>AI Enthusiast and Stock Market Trader</>,
   subline: (
     <>
       I'm Christopher, a Junior Consultant at Lidl Germany, where I create and support
@@ -97,6 +97,8 @@ const about = {
           <>
             Developed a Reddit scraping bot to collect user data and perform Stock market sentiment analysis on the popular r/wallstreetbets subreddit.          </>,
           <>
+            I’ve launched an online Etsy shop showcasing AI‑generated products and have already made over 60 sales. </>,        
+          <>
             Launched a fully AI-driven YouTube channel, creating engaging and informative Shorts.
           </>,
         ],
@@ -120,10 +122,6 @@ const about = {
         name: "Duale Hochschule Heilbronn (DHBW)",
         description: <>Dual study program in Business Informatics at LIDL Germany.</>,
       },
-      {
-        name: "Build the Future",
-        description: <>Studied online marketing and personal branding.</>,
-      },
     ],
   },
   technical: {
@@ -141,17 +139,11 @@ const about = {
             width: 16,
             height: 9,
           },
-          {
-            src: "/images/projects/project-01/cover-03.jpg",
-            alt: "Project image",
-            width: 16,
-            height: 9,
-          },
         ],
       },
       {
-        title: "Online Marketing",
-        description: <>Building next gen apps with Next.js + Once UI + Supabase.</>,
+        title: "Direct‑to-Customer Sales via Etsy",
+        description: <>Next‑Gen Emotes & Templates—AI‑Designed, Hand‑Tweaked.</>,
         // optional: leave the array empty if you don't want to display images
         images: [
           {
