@@ -129,7 +129,7 @@ const about = {
     title: "Technical skills",
     skills: [
       {
-        title: "Prompt engineering",
+        title: "Prompt Engineering",
         description: <>Expert in prompt engineering for generative AI tools (ChatGPT, Midjourney, Luma Labs).</>,
         // optional: leave the array empty if you don't want to display images
         images: [
