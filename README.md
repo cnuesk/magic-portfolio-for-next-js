@@ -7,8 +7,6 @@ View the [demo here](https://demo.magic-portfolio.com).
 
 # **Getting started**
 
-Magic Portfolio was built with [Once UI](https://once-ui.com) for [Next.js](https://nextjs.org). It requires Node.js v18.17+.
-
 **1. Clone the repository**
 ```
 git clone https://github.com/once-ui-system/magic-portfolio.git
@@ -42,7 +40,6 @@ Add a new .mdx file to src/app/blog/posts or src/app/work/projects
 # **Features**
 
 ## **Once UI**
-- All tokens, components & features of [Once UI](https://once-ui.com)
 
 ## **SEO**
 - Automatic open-graph and X image generation with next/og
