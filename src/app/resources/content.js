@@ -106,7 +106,7 @@ const about = {
             src: "/images/projects/project-01/cover-01.jpg",
             alt: "Once UI Project",
             width: 16,
-            height: 9,
+            height: 12,
           },
         ],
       },
@@ -118,7 +118,7 @@ const about = {
     institutions: [
       {
         name: "Duale Hochschule Heilbronn (DHBW)",
-        description: <>Studied Business Informatics at LIDL</>,
+        description: <>Dual study program in Business Informatics at LIDL Germany.</>,
       },
       {
         name: "Build the Future",
@@ -131,8 +131,8 @@ const about = {
     title: "Technical skills",
     skills: [
       {
-        title: "Figma",
-        description: <>Able to prototype in Figma with Once UI with unnatural speed.</>,
+        title: "Prompt engineering",
+        description: <>Expert in prompt engineering for generative AI tools (ChatGPT, Midjourney, Luma Labs).</>,
         // optional: leave the array empty if you don't want to display images
         images: [
           {
