@@ -150,7 +150,7 @@ const about = {
             src: "/images/projects/project-01/cover-04.jpg",
             alt: "Project image",
             width: 16,
-            height: 9,
+            height: 12,
           },
         ],
       },
