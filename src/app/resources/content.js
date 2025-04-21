@@ -159,8 +159,8 @@ const about = {
 };
 
 const blog = {
-  label: "News",
-  title: "Writing about design and tech...",
+  label: "New Projects",
+  title: "Take a look at my newest projects",
   description: `Read what ${person.name} has been up to recently`,
   // Create new blog posts by adding a new .mdx file to app/blog/posts
   // All posts will be listed on the /blog route
@@ -222,7 +222,7 @@ const gallery = {
     {
       src: "/images/gallery/img-09.jpg",
       alt: "image",
-      orientation: "horizontal",
+      orientation: "vertical",
     },
     {
       src: "/images/gallery/img-10.jpg",
