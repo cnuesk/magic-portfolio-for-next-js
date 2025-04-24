@@ -222,7 +222,7 @@ const gallery = {
     {
       src: "/images/gallery/img-09.jpg",
       alt: "image",
-      orientation: "vertical",
+      orientation: "horizontal",
     },
     {
       src: "/images/gallery/img-10.jpg",
