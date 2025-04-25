@@ -87,7 +87,7 @@ export default function About() {
             worksFor: {
               "@type": "Organization",
               name: about.work.experiences[0].company || "",
-            },ww
+            },
           }),
         }}
       />
