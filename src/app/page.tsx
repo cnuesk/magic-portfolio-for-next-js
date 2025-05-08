@@ -100,6 +100,41 @@ export default function Home() {
       <RevealFx translateY="16" delay={0.6}>
         <Projects range={[1, 1]} />
       </RevealFx>
+
+      {/* ── Shop My Merch ── */}
+      <section
+        id="merch"
+        style={{
+          width: '100%',
+          margin: '3rem 0',
+          textAlign: 'center'
+        }}
+      >
+        <h2
+          style={{
+            fontSize: '1.75rem',
+            fontWeight: 'bold',
+            marginBottom: '1.5rem',
+            textAlign: 'center'
+          }}
+        >
+          Shop My Merch
+        </h2>
+        <div style={{ display: 'flex', justifyContent: 'center' }}>
+          <iframe
+            style={{
+              borderRadius: '24px',
+              border: 'none',
+              width: '800px',
+              maxWidth: '100%'
+            }}
+            src="https://embed.creator-spring.com/widget?slug=my-store-1086852-2&per=20&currency=&page=1&layout=carousel-small&theme=light"
+            title="CNPrints Merch store"
+            height="420"
+          />
+        </div>
+      </section>
+
       {routes["/blog"] && (
         <Flex fillWidth gap="24" mobileDirection="column">
           <Flex flex={1} paddingLeft="l">
